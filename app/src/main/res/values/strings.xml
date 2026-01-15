@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">QuoteVault</string>
+    <string name="widget_description">Display the quote of the day on your home screen</string>
+    
+    <!-- Auth -->
+    <string name="login_title">Welcome Back</string>
+    <string name="signup_title">Create Account</string>
+    <string name="email_label">Email</string>
+    <string name="password_label">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    
+    <!-- Home -->
+    <string name="quote_of_the_day">Quote of the Day</string>
+    <string name="browse_by_category">Browse by Category</string>
+    <string name="all_quotes">All Quotes</string>
+    
+    <!-- Categories -->
+    <string name="category_motivation">Motivation</string>
+    <string name="category_love">Love</string>
+    <string name="category_success">Success</string>
+    <string name="category_wisdom">Wisdom</string>
+    <string name="category_humor">Humor</string>
+    
+    <!-- Actions -->
+    <string name="share">Share</string>
+    <string name="save">Save</string>
+    <string name="add_to_favorites">Add to Favorites</string>
+    <string name="remove_from_favorites">Remove from Favorites</string>
+    <string name="add_to_collection">Add to Collection</string>
+    
+    <!-- Settings -->
+    <string name="settings">Settings</string>
+    <string name="theme_mode">Theme Mode</string>
+    <string name="accent_color">Accent Color</string>
+    <string name="font_size">Font Size</string>
+    <string name="notifications">Notifications</string>
+    
+    <!-- Notifications -->
+    <string name="daily_quote_notification_title">Your Daily Inspiration</string>
+    <string name="daily_quote_notification_text">Start your day with a new motivational quote!</string>
+    
+    <!-- Errors -->
+    <string name="error_generic">Something went wrong. Please try again.</string>
+    <string name="error_network">No internet connection. Please check your network.</string>
+    <string name="error_auth">Authentication failed. Please try again.</string>
+</resources>
